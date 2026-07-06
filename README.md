@@ -16,9 +16,11 @@
 ### 🚀 Featured Projects
 
 [![Omnifood](https://img.shields.io/badge/Omnifood-Live_Demo-4CAF50?style=for-the-badge&logo=netlify&logoColor=white)](https://omnifood-abdullah-aamir.netlify.app/)
+
 A responsive food subscription landing page built with modern HTML/CSS design principles.
 
 [![Tic Tac Toe](https://img.shields.io/badge/Tic_Tac_Toe-Live_Demo-FF6B6B?style=for-the-badge&logo=javascript&logoColor=white)](https://tic-tac-toe-abdullah.netlify.app/)
+
 An interactive Tic Tac Toe game built with JavaScript, focused on clean game logic and UI.
 
 ---
