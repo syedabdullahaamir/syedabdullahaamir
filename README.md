@@ -19,11 +19,13 @@
 
 <img width="1263" height="583" alt="preview (2)" src="https://github.com/user-attachments/assets/1b41a4c2-cd1a-4883-92af-15b0dc65c63b" />
 
+
 [![Omnifood](https://img.shields.io/badge/Omnifood-Live_Demo-4CAF50?style=for-the-badge&logo=netlify&logoColor=white)](https://omnifood-abdullah-aamir.netlify.app/)
 
 A responsive food subscription landing page built with modern HTML/CSS design principles.
 
 <img width="1252" height="565" alt="preview (1)" src="https://github.com/user-attachments/assets/e970d585-2ce8-4f1f-8e4b-24c5018b15ed" />
+
 
 [![Tic Tac Toe](https://img.shields.io/badge/Tic_Tac_Toe-Live_Demo-FF6B6B?style=for-the-badge&logo=javascript&logoColor=white)](https://tic-tac-toe-abdullah.netlify.app/)
 
