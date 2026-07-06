@@ -4,7 +4,7 @@
 <h3 align="center">Web Developer | Turning Ideas Into Interfaces</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=syedabdullahaamir&label=Profile%20views&color=0e75b6&style=flat" alt="syedabdullahaamir" />
+  <img src="https://komarev.com/ghpvc/?username=syedabdullahaamir&label=Profile%20views&color=0e75b6&style=flat" alt="syedabdullahaamir" width="200" />
 </p>
 
 - 🌱 Building projects with **React, Node.js, and Express**
