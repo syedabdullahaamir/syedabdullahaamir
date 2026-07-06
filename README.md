@@ -1,4 +1,4 @@
-<img width="1252" height="565" alt="preview (1)" src="https://github.com/user-attachments/assets/e970d585-2ce8-4f1f-8e4b-24c5018b15ed" />
+
 <h1 align="center">Hi 👋, I'm Abdullah Aamir</h1>
 <h3 align="center">Web Developer | Turning Ideas Into Interfaces</h3>
 
