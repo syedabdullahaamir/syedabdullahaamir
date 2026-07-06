@@ -1,5 +1,3 @@
-
- 
 <h1 align="center">Hi 👋, I'm Abdullah Aamir</h1>
 <h3 align="center">Web Developer | Turning Ideas Into Interfaces</h3>
 
@@ -17,25 +15,33 @@
 
 ### 🚀 Featured Projects
 
-<img width="1000" height="583" alt="preview (2)" src="https://github.com/user-attachments/assets/1b41a4c2-cd1a-4883-92af-15b0dc65c63b" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1b41a4c2-cd1a-4883-92af-15b0dc65c63b" width="500" alt="Omnifood preview" />
+</p>
 
+<p align="center">
+  <a href="https://omnifood-abdullah-aamir.netlify.app/"><img src="https://img.shields.io/badge/Omnifood-Live_Demo-4CAF50?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+</p>
 
-[![Omnifood](https://img.shields.io/badge/Omnifood-Live_Demo-4CAF50?style=for-the-badge&logo=netlify&logoColor=white)](https://omnifood-abdullah-aamir.netlify.app/)
+<p align="center">A responsive food subscription landing page built with modern HTML/CSS design principles.</p>
 
-A responsive food subscription landing page built with modern HTML/CSS design principles.
+<br/>
 
-<img width="1252" height="565" alt="preview (1)" src="https://github.com/user-attachments/assets/e970d585-2ce8-4f1f-8e4b-24c5018b15ed" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e970d585-2ce8-4f1f-8e4b-24c5018b15ed" width="500" alt="Tic Tac Toe preview" />
+</p>
 
+<p align="center">
+  <a href="https://tic-tac-toe-abdullah.netlify.app/"><img src="https://img.shields.io/badge/Tic_Tac_Toe-Live_Demo-FF6B6B?style=for-the-badge&logo=javascript&logoColor=white" /></a>
+</p>
 
-[![Tic Tac Toe](https://img.shields.io/badge/Tic_Tac_Toe-Live_Demo-FF6B6B?style=for-the-badge&logo=javascript&logoColor=white)](https://tic-tac-toe-abdullah.netlify.app/)
-
-An interactive Tic Tac Toe game built with JavaScript, focused on clean game logic and UI.
+<p align="center">An interactive Tic Tac Toe game built with JavaScript, focused on clean game logic and UI.</p>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -47,6 +53,3 @@ An interactive Tic Tac Toe game built with JavaScript, focused on clean game log
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
-
----
-
