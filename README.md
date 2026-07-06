@@ -17,7 +17,7 @@
 
 ### 🚀 Featured Projects
 
-<img width="1263" height="583" alt="preview (2)" src="https://github.com/user-attachments/assets/1b41a4c2-cd1a-4883-92af-15b0dc65c63b" />
+<img width="1000" height="583" alt="preview (2)" src="https://github.com/user-attachments/assets/1b41a4c2-cd1a-4883-92af-15b0dc65c63b" />
 
 
 [![Omnifood](https://img.shields.io/badge/Omnifood-Live_Demo-4CAF50?style=for-the-badge&logo=netlify&logoColor=white)](https://omnifood-abdullah-aamir.netlify.app/)
