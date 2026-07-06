@@ -41,5 +41,5 @@ An interactive Tic Tac Toe game built with JavaScript, focused on clean game log
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedabdullahaamir&show_icons=true&theme=radical" alt="syedabdullahaamir GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syedabdullahaamir&show_icons=true" alt="syedabdullahaamir GitHub stats" />
 </p>
